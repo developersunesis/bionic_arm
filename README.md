@@ -66,26 +66,26 @@ Servo servo5;
 
 // Define the analog input pin to measure flex sensor position:
 const int flexpin1 = 4;
-const float SR1 = 25791.85; // This can be changed
-const float BR1 = 16186.11; // This can be changed
+const float SR1 = 25791.85; 
+const float BR1 = 16186.11; 
 
 const int flexpin2 = 3;
-const float SR2 = 2134.84; // This can be changed
-const float BR2 = 1141.14; // This can be changed
+const float SR2 = 2134.84; 
+const float BR2 = 1141.14; 
 
 const int flexpin3 = 2;
-const float SR3 = 802.68; // This can be changed
-const float BR3 = 1732.52; // This can be changed
+const float SR3 = 802.68; 
+const float BR3 = 1732.52; 
 
 const int flexpin4 = 1;
-const float SR4 = 2750.77; // This can be changed
-const float BR4 = 2647.06; // This can be changed
+const float SR4 = 2750.77; 
+const float BR4 = 2647.06; 
 
 const int flexpin5 = 0;
-const float SR5 = 6611.91; // This can be changed
-const float BR5 = 4526.23; // This can be changed
+const float SR5 = 6611.91; 
+const float BR5 = 4526.23; 
 
-// Ressitance value and VCC
+// Resitance value and VCC
 const float VCC = 4.98;
 const float R_DIV = 47500.0;
 
