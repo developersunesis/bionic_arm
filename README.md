@@ -27,7 +27,7 @@ This process is repeated continuously. See [Bionic Arm Project.pdf](/Bionic%20Ar
 <hr/>
 
 ### CIRCURT SIMULATION
-![alt text](/simulation.png "Circuit simulation")
+![alt text](/simulation.jpeg "Circuit simulation")
 
 <hr/>
 
